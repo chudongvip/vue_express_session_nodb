@@ -8,10 +8,10 @@
 
     a)	进入项目目录中的server目录	<pre><code>cd xx\server</code></pre>
     b)  安装依赖	<pre><code>npm install</code></pre>
-    c)  运行服务  <pre><code>nodemon bin\www</code></pre>
+    c)  运行服务	<pre><code>nodemon bin\www</code></pre>
 
 2.	运行vue
 
-    a)	进入项目根目录				<pre><code>cd  xx</code></pre>
-    b)	安装依赖  <pre><code>npm install</code></pre>
-    c)	运行服务  <pre><code>npm run dev</code></pre>
+    a)	进入项目根目录	<pre><code>cd  xx</code></pre>
+    b)	安装依赖	<pre><code>npm install</code></pre>
+    c)	运行服务	<pre><code>npm run dev</code></pre>
