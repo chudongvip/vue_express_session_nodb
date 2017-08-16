@@ -4,10 +4,14 @@
 ## 使用
   这里需要打开两个node窗口，一个允许vue（开发模式）一个运行express
 
-1.	运行后台服务	
+1.	运行后台服务	<br>
+
 a)	进入项目目录中的server目录	cd xx\server
+
 b)	npm install
+
 c)	nodemon bin\www
+
 
 2.	运行vue
 a)	进入项目根目录				cd  xx
